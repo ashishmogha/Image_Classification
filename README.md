@@ -30,7 +30,7 @@ In ,this project we had to build and run a [Convolutional Neural Network](https:
 
 # Installation
  
-You only 'need' to install Conda and run the following commands:
+You only need to install `Conda` and run the following commands:
 
 ```
  conda env create -n filename
