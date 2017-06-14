@@ -8,7 +8,7 @@ In this project, we classify images from the CIFAR-10 dataset. The dataset consi
 
 # Project
 
-In this project we had to build and run a [Convolutional Neural Network](https://en.wikipedia.org/wiki/Convolutional_neural_network)using [TensorFlow](https://www.tensorflow.org/) and use it to classify images from the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html). The project was written in Python (on a Jupyter Notebook).
+In ,this project we had to build and run a [Convolutional Neural Network](https://en.wikipedia.org/wiki/Convolutional_neural_network)using [TensorFlow](https://www.tensorflow.org/) and use it to classify images from the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html). The project was written in Python (on a Jupyter Notebook).
 
 
 # Libraries
@@ -32,8 +32,8 @@ In this project we had to build and run a [Convolutional Neural Network](https:/
  
 You only need to install Conda and run the following commands:
 
-1. conda env create -n filename
-2. source activate filename
+* conda env create -n filename
+* source activate filename
 
 
 
