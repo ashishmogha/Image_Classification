@@ -11,7 +11,7 @@ In this project, we classify images from the CIFAR-10 dataset. The dataset consi
 In ,this project we had to build and run a [Convolutional Neural Network](https://en.wikipedia.org/wiki/Convolutional_neural_network)using [TensorFlow](https://www.tensorflow.org/) and use it to classify images from the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html). The project was written in Python (on a Jupyter Notebook).
 
 
-# Libraries
+# Requirements
 
 1. Numpy
 2. Pickle 
